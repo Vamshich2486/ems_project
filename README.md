@@ -1,5 +1,5 @@
-The Employee Management System (EMS) is a Spring Boot-based web application that allows administrators to manage employee data efficiently. It includes secure login functionality, a user-friendly dashboard, and core features like viewing, adding, editing, and deleting employee records. The frontend is built using Thymeleaf and styled with Bootstrap to ensure responsive design. The project follows a clean MVC architecture and can be easily customized or scaled. Ideal for learning full-stack Java development, this EMS app demonstrates integration of backend logic with dynamic frontend rendering.
-# 🧑‍💼 Employee Management System (EMS)
+
+# Employee Management System (EMS)
 
 A simple web-based Employee Management System built using Spring Boot, Thymeleaf, and Bootstrap. This application allows administrators to manage employee data — including adding, editing, viewing, and deleting employees — through a clean and intuitive UI.
 
